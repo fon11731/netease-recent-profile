@@ -22,7 +22,7 @@
 如果你想将卡片嵌在你的网页中，也可以这样使用：
 
 ```md
-<img src="https://netease-recent-profile.vercel.app/?id=126764012&size=60" alt="Netease recently played" title="Netease recently played">
+<img src="https://netease-recent-profile.vercel.app/?id=1763340659&size=60" alt="Netease recently played" title="Netease recently played">
 ```
 
 两种主题详细的自定义配置如下。
